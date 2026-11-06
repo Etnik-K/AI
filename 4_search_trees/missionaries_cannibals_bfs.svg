@@ -1,0 +1,284 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="951" height="1250" font-family="monospace" font-size="12">
+<rect width="100%" height="100%" fill="white"/>
+<text x="10" y="24" font-size="15" font-weight="bold">Missionaries and Cannibals search tree (BFS)</text>
+<line x1="408.4" y1="94.0" x2="59.2" y2="140.0" stroke="#888" stroke-width="1"/>
+<text x="236.8" y="121.0" font-size="10" fill="#444">1M→</text>
+<line x1="408.4" y1="94.0" x2="175.6" y2="140.0" stroke="#888" stroke-width="1"/>
+<text x="295.0" y="121.0" font-size="10" fill="#444">2M→</text>
+<line x1="408.4" y1="94.0" x2="292.0" y2="140.0" stroke="#888" stroke-width="1"/>
+<text x="353.2" y="121.0" font-size="10" fill="#444">1C→</text>
+<line x1="408.4" y1="94.0" x2="466.6" y2="140.0" stroke="#1b5e20" stroke-width="3"/>
+<text x="440.5" y="121.0" font-size="10" fill="#444">2C→</text>
+<line x1="408.4" y1="94.0" x2="757.6" y2="140.0" stroke="#888" stroke-width="1"/>
+<text x="586.0" y="121.0" font-size="10" fill="#444">1M1C→</text>
+<line x1="292.0" y1="194.0" x2="292.0" y2="240.0" stroke="#888" stroke-width="1"/>
+<text x="295.0" y="221.0" font-size="10" fill="#444">←1C</text>
+<line x1="466.6" y1="194.0" x2="408.4" y2="240.0" stroke="#1b5e20" stroke-width="3"/>
+<text x="440.5" y="221.0" font-size="10" fill="#444">←1C</text>
+<line x1="466.6" y1="194.0" x2="524.8" y2="240.0" stroke="#888" stroke-width="1"/>
+<text x="498.7" y="221.0" font-size="10" fill="#444">←2C</text>
+<line x1="757.6" y1="194.0" x2="641.2" y2="240.0" stroke="#888" stroke-width="1"/>
+<text x="702.4" y="221.0" font-size="10" fill="#444">←1M</text>
+<line x1="757.6" y1="194.0" x2="757.6" y2="240.0" stroke="#888" stroke-width="1"/>
+<text x="760.6" y="221.0" font-size="10" fill="#444">←1C</text>
+<line x1="757.6" y1="194.0" x2="874.0" y2="240.0" stroke="#888" stroke-width="1"/>
+<text x="818.8" y="221.0" font-size="10" fill="#444">←1M1C</text>
+<line x1="408.4" y1="294.0" x2="175.6" y2="340.0" stroke="#888" stroke-width="1"/>
+<text x="295.0" y="321.0" font-size="10" fill="#444">1M→</text>
+<line x1="408.4" y1="294.0" x2="292.0" y2="340.0" stroke="#888" stroke-width="1"/>
+<text x="353.2" y="321.0" font-size="10" fill="#444">2M→</text>
+<line x1="408.4" y1="294.0" x2="408.4" y2="340.0" stroke="#888" stroke-width="1"/>
+<text x="411.4" y="321.0" font-size="10" fill="#444">1C→</text>
+<line x1="408.4" y1="294.0" x2="524.8" y2="340.0" stroke="#1b5e20" stroke-width="3"/>
+<text x="469.6" y="321.0" font-size="10" fill="#444">2C→</text>
+<line x1="408.4" y1="294.0" x2="641.2" y2="340.0" stroke="#888" stroke-width="1"/>
+<text x="527.8" y="321.0" font-size="10" fill="#444">1M1C→</text>
+<line x1="524.8" y1="394.0" x2="466.6" y2="440.0" stroke="#1b5e20" stroke-width="3"/>
+<text x="498.7" y="421.0" font-size="10" fill="#444">←1C</text>
+<line x1="524.8" y1="394.0" x2="583.0" y2="440.0" stroke="#888" stroke-width="1"/>
+<text x="556.9" y="421.0" font-size="10" fill="#444">←2C</text>
+<line x1="466.6" y1="494.0" x2="292.0" y2="540.0" stroke="#888" stroke-width="1"/>
+<text x="382.3" y="521.0" font-size="10" fill="#444">1M→</text>
+<line x1="466.6" y1="494.0" x2="408.4" y2="540.0" stroke="#1b5e20" stroke-width="3"/>
+<text x="440.5" y="521.0" font-size="10" fill="#444">2M→</text>
+<line x1="466.6" y1="494.0" x2="524.8" y2="540.0" stroke="#888" stroke-width="1"/>
+<text x="498.7" y="521.0" font-size="10" fill="#444">1C→</text>
+<line x1="466.6" y1="494.0" x2="641.2" y2="540.0" stroke="#888" stroke-width="1"/>
+<text x="556.9" y="521.0" font-size="10" fill="#444">1M1C→</text>
+<line x1="408.4" y1="594.0" x2="175.6" y2="640.0" stroke="#888" stroke-width="1"/>
+<text x="295.0" y="621.0" font-size="10" fill="#444">←1M</text>
+<line x1="408.4" y1="594.0" x2="292.0" y2="640.0" stroke="#888" stroke-width="1"/>
+<text x="353.2" y="621.0" font-size="10" fill="#444">←2M</text>
+<line x1="408.4" y1="594.0" x2="408.4" y2="640.0" stroke="#888" stroke-width="1"/>
+<text x="411.4" y="621.0" font-size="10" fill="#444">←1C</text>
+<line x1="408.4" y1="594.0" x2="524.8" y2="640.0" stroke="#888" stroke-width="1"/>
+<text x="469.6" y="621.0" font-size="10" fill="#444">←2C</text>
+<line x1="408.4" y1="594.0" x2="641.2" y2="640.0" stroke="#1b5e20" stroke-width="3"/>
+<text x="527.8" y="621.0" font-size="10" fill="#444">←1M1C</text>
+<line x1="641.2" y1="694.0" x2="408.4" y2="740.0" stroke="#888" stroke-width="1"/>
+<text x="527.8" y="721.0" font-size="10" fill="#444">1M→</text>
+<line x1="641.2" y1="694.0" x2="524.8" y2="740.0" stroke="#1b5e20" stroke-width="3"/>
+<text x="586.0" y="721.0" font-size="10" fill="#444">2M→</text>
+<line x1="641.2" y1="694.0" x2="641.2" y2="740.0" stroke="#888" stroke-width="1"/>
+<text x="644.2" y="721.0" font-size="10" fill="#444">1C→</text>
+<line x1="641.2" y1="694.0" x2="757.6" y2="740.0" stroke="#888" stroke-width="1"/>
+<text x="702.4" y="721.0" font-size="10" fill="#444">2C→</text>
+<line x1="641.2" y1="694.0" x2="874.0" y2="740.0" stroke="#888" stroke-width="1"/>
+<text x="760.6" y="721.0" font-size="10" fill="#444">1M1C→</text>
+<line x1="524.8" y1="794.0" x2="350.2" y2="840.0" stroke="#888" stroke-width="1"/>
+<text x="440.5" y="821.0" font-size="10" fill="#444">←1M</text>
+<line x1="524.8" y1="794.0" x2="466.6" y2="840.0" stroke="#888" stroke-width="1"/>
+<text x="498.7" y="821.0" font-size="10" fill="#444">←2M</text>
+<line x1="524.8" y1="794.0" x2="583.0" y2="840.0" stroke="#1b5e20" stroke-width="3"/>
+<text x="556.9" y="821.0" font-size="10" fill="#444">←1C</text>
+<line x1="524.8" y1="794.0" x2="699.4" y2="840.0" stroke="#888" stroke-width="1"/>
+<text x="615.1" y="821.0" font-size="10" fill="#444">←1M1C</text>
+<line x1="583.0" y1="894.0" x2="524.8" y2="940.0" stroke="#888" stroke-width="1"/>
+<text x="556.9" y="921.0" font-size="10" fill="#444">1C→</text>
+<line x1="583.0" y1="894.0" x2="641.2" y2="940.0" stroke="#1b5e20" stroke-width="3"/>
+<text x="615.1" y="921.0" font-size="10" fill="#444">2C→</text>
+<line x1="641.2" y1="994.0" x2="408.4" y2="1040.0" stroke="#1b5e20" stroke-width="3"/>
+<text x="527.8" y="1021.0" font-size="10" fill="#444">←1M</text>
+<line x1="641.2" y1="994.0" x2="524.8" y2="1040.0" stroke="#888" stroke-width="1"/>
+<text x="586.0" y="1021.0" font-size="10" fill="#444">←2M</text>
+<line x1="641.2" y1="994.0" x2="641.2" y2="1040.0" stroke="#888" stroke-width="1"/>
+<text x="644.2" y="1021.0" font-size="10" fill="#444">←1C</text>
+<line x1="641.2" y1="994.0" x2="757.6" y2="1040.0" stroke="#888" stroke-width="1"/>
+<text x="702.4" y="1021.0" font-size="10" fill="#444">←2C</text>
+<line x1="641.2" y1="994.0" x2="874.0" y2="1040.0" stroke="#888" stroke-width="1"/>
+<text x="760.6" y="1021.0" font-size="10" fill="#444">←1M1C</text>
+<line x1="408.4" y1="1094.0" x2="292.0" y2="1140.0" stroke="#888" stroke-width="1"/>
+<text x="353.2" y="1121.0" font-size="10" fill="#444">1M→</text>
+<line x1="408.4" y1="1094.0" x2="408.4" y2="1140.0" stroke="#888" stroke-width="1"/>
+<text x="411.4" y="1121.0" font-size="10" fill="#444">1C→</text>
+<line x1="408.4" y1="1094.0" x2="524.8" y2="1140.0" stroke="#1b5e20" stroke-width="3"/>
+<text x="469.6" y="1121.0" font-size="10" fill="#444">1M1C→</text>
+<rect x="359.2" y="40.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#1b5e20" stroke-width="3"/>
+<text x="408.4" y="57.0" text-anchor="middle" xml:space="preserve">(3,3,L)</text>
+<text x="408.4" y="71.0" text-anchor="middle" xml:space="preserve">MMMCCC &lt;b -</text>
+<text x="408.4" y="85.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#1</text>
+<rect x="10.0" y="140.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="59.2" y="157.0" text-anchor="middle" xml:space="preserve">(2,3,R)</text>
+<text x="59.2" y="171.0" text-anchor="middle" xml:space="preserve">MMCCC b&gt; M</text>
+<text x="59.2" y="185.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M left</text>
+<rect x="126.4" y="140.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="175.6" y="157.0" text-anchor="middle" xml:space="preserve">(1,3,R)</text>
+<text x="175.6" y="171.0" text-anchor="middle" xml:space="preserve">MCCC b&gt; MM</text>
+<text x="175.6" y="185.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M left</text>
+<rect x="242.8" y="140.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="292.0" y="157.0" text-anchor="middle" xml:space="preserve">(3,2,R)</text>
+<text x="292.0" y="171.0" text-anchor="middle" xml:space="preserve">MMMCC b&gt; C</text>
+<text x="292.0" y="185.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#2</text>
+<rect x="417.4" y="140.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#1b5e20" stroke-width="3"/>
+<text x="466.6" y="157.0" text-anchor="middle" xml:space="preserve">(3,1,R)</text>
+<text x="466.6" y="171.0" text-anchor="middle" xml:space="preserve">MMMC b&gt; CC</text>
+<text x="466.6" y="185.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#3</text>
+<rect x="708.4" y="140.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="757.6" y="157.0" text-anchor="middle" xml:space="preserve">(2,2,R)</text>
+<text x="757.6" y="171.0" text-anchor="middle" xml:space="preserve">MMCC b&gt; MC</text>
+<text x="757.6" y="185.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#4</text>
+<rect x="242.8" y="240.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="292.0" y="257.0" text-anchor="middle" xml:space="preserve">(3,3,L)</text>
+<text x="292.0" y="271.0" text-anchor="middle" xml:space="preserve">MMMCCC &lt;b -</text>
+<text x="292.0" y="285.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="359.2" y="240.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#1b5e20" stroke-width="3"/>
+<text x="408.4" y="257.0" text-anchor="middle" xml:space="preserve">(3,2,L)</text>
+<text x="408.4" y="271.0" text-anchor="middle" xml:space="preserve">MMMCC &lt;b C</text>
+<text x="408.4" y="285.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#5</text>
+<rect x="475.6" y="240.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="524.8" y="257.0" text-anchor="middle" xml:space="preserve">(3,3,L)</text>
+<text x="524.8" y="271.0" text-anchor="middle" xml:space="preserve">MMMCCC &lt;b -</text>
+<text x="524.8" y="285.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="592.0" y="240.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="641.2" y="257.0" text-anchor="middle" xml:space="preserve">(3,2,L)</text>
+<text x="641.2" y="271.0" text-anchor="middle" xml:space="preserve">MMMCC &lt;b C</text>
+<text x="641.2" y="285.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="708.4" y="240.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="757.6" y="257.0" text-anchor="middle" xml:space="preserve">(2,3,L)</text>
+<text x="757.6" y="271.0" text-anchor="middle" xml:space="preserve">MMCCC &lt;b M</text>
+<text x="757.6" y="285.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M left</text>
+<rect x="824.8" y="240.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="874.0" y="257.0" text-anchor="middle" xml:space="preserve">(3,3,L)</text>
+<text x="874.0" y="271.0" text-anchor="middle" xml:space="preserve">MMMCCC &lt;b -</text>
+<text x="874.0" y="285.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="126.4" y="340.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="175.6" y="357.0" text-anchor="middle" xml:space="preserve">(2,2,R)</text>
+<text x="175.6" y="371.0" text-anchor="middle" xml:space="preserve">MMCC b&gt; MC</text>
+<text x="175.6" y="385.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="242.8" y="340.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="292.0" y="357.0" text-anchor="middle" xml:space="preserve">(1,2,R)</text>
+<text x="292.0" y="371.0" text-anchor="middle" xml:space="preserve">MCC b&gt; MMC</text>
+<text x="292.0" y="385.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M left</text>
+<rect x="359.2" y="340.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="408.4" y="357.0" text-anchor="middle" xml:space="preserve">(3,1,R)</text>
+<text x="408.4" y="371.0" text-anchor="middle" xml:space="preserve">MMMC b&gt; CC</text>
+<text x="408.4" y="385.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="475.6" y="340.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#1b5e20" stroke-width="3"/>
+<text x="524.8" y="357.0" text-anchor="middle" xml:space="preserve">(3,0,R)</text>
+<text x="524.8" y="371.0" text-anchor="middle" xml:space="preserve">MMM b&gt; CCC</text>
+<text x="524.8" y="385.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#6</text>
+<rect x="592.0" y="340.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="641.2" y="357.0" text-anchor="middle" xml:space="preserve">(2,1,R)</text>
+<text x="641.2" y="371.0" text-anchor="middle" xml:space="preserve">MMC b&gt; MCC</text>
+<text x="641.2" y="385.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M right</text>
+<rect x="417.4" y="440.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#1b5e20" stroke-width="3"/>
+<text x="466.6" y="457.0" text-anchor="middle" xml:space="preserve">(3,1,L)</text>
+<text x="466.6" y="471.0" text-anchor="middle" xml:space="preserve">MMMC &lt;b CC</text>
+<text x="466.6" y="485.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#7</text>
+<rect x="533.8" y="440.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="583.0" y="457.0" text-anchor="middle" xml:space="preserve">(3,2,L)</text>
+<text x="583.0" y="471.0" text-anchor="middle" xml:space="preserve">MMMCC &lt;b C</text>
+<text x="583.0" y="485.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="242.8" y="540.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="292.0" y="557.0" text-anchor="middle" xml:space="preserve">(2,1,R)</text>
+<text x="292.0" y="571.0" text-anchor="middle" xml:space="preserve">MMC b&gt; MCC</text>
+<text x="292.0" y="585.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M right</text>
+<rect x="359.2" y="540.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#1b5e20" stroke-width="3"/>
+<text x="408.4" y="557.0" text-anchor="middle" xml:space="preserve">(1,1,R)</text>
+<text x="408.4" y="571.0" text-anchor="middle" xml:space="preserve">MC b&gt; MMCC</text>
+<text x="408.4" y="585.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#8</text>
+<rect x="475.6" y="540.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="524.8" y="557.0" text-anchor="middle" xml:space="preserve">(3,0,R)</text>
+<text x="524.8" y="571.0" text-anchor="middle" xml:space="preserve">MMM b&gt; CCC</text>
+<text x="524.8" y="585.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="592.0" y="540.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="641.2" y="557.0" text-anchor="middle" xml:space="preserve">(2,0,R)</text>
+<text x="641.2" y="571.0" text-anchor="middle" xml:space="preserve">MM b&gt; MCCC</text>
+<text x="641.2" y="585.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M right</text>
+<rect x="126.4" y="640.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="175.6" y="657.0" text-anchor="middle" xml:space="preserve">(2,1,L)</text>
+<text x="175.6" y="671.0" text-anchor="middle" xml:space="preserve">MMC &lt;b MCC</text>
+<text x="175.6" y="685.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M right</text>
+<rect x="242.8" y="640.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="292.0" y="657.0" text-anchor="middle" xml:space="preserve">(3,1,L)</text>
+<text x="292.0" y="671.0" text-anchor="middle" xml:space="preserve">MMMC &lt;b CC</text>
+<text x="292.0" y="685.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="359.2" y="640.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="408.4" y="657.0" text-anchor="middle" xml:space="preserve">(1,2,L)</text>
+<text x="408.4" y="671.0" text-anchor="middle" xml:space="preserve">MCC &lt;b MMC</text>
+<text x="408.4" y="685.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M left</text>
+<rect x="475.6" y="640.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="524.8" y="657.0" text-anchor="middle" xml:space="preserve">(1,3,L)</text>
+<text x="524.8" y="671.0" text-anchor="middle" xml:space="preserve">MCCC &lt;b MM</text>
+<text x="524.8" y="685.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M left</text>
+<rect x="592.0" y="640.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#1b5e20" stroke-width="3"/>
+<text x="641.2" y="657.0" text-anchor="middle" xml:space="preserve">(2,2,L)</text>
+<text x="641.2" y="671.0" text-anchor="middle" xml:space="preserve">MMCC &lt;b MC</text>
+<text x="641.2" y="685.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#9</text>
+<rect x="359.2" y="740.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="408.4" y="757.0" text-anchor="middle" xml:space="preserve">(1,2,R)</text>
+<text x="408.4" y="771.0" text-anchor="middle" xml:space="preserve">MCC b&gt; MMC</text>
+<text x="408.4" y="785.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M left</text>
+<rect x="475.6" y="740.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#1b5e20" stroke-width="3"/>
+<text x="524.8" y="757.0" text-anchor="middle" xml:space="preserve">(0,2,R)</text>
+<text x="524.8" y="771.0" text-anchor="middle" xml:space="preserve">CC b&gt; MMMC</text>
+<text x="524.8" y="785.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#10</text>
+<rect x="592.0" y="740.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="641.2" y="757.0" text-anchor="middle" xml:space="preserve">(2,1,R)</text>
+<text x="641.2" y="771.0" text-anchor="middle" xml:space="preserve">MMC b&gt; MCC</text>
+<text x="641.2" y="785.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M right</text>
+<rect x="708.4" y="740.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="757.6" y="757.0" text-anchor="middle" xml:space="preserve">(2,0,R)</text>
+<text x="757.6" y="771.0" text-anchor="middle" xml:space="preserve">MM b&gt; MCCC</text>
+<text x="757.6" y="785.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M right</text>
+<rect x="824.8" y="740.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="874.0" y="757.0" text-anchor="middle" xml:space="preserve">(1,1,R)</text>
+<text x="874.0" y="771.0" text-anchor="middle" xml:space="preserve">MC b&gt; MMCC</text>
+<text x="874.0" y="785.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="301.0" y="840.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="350.2" y="857.0" text-anchor="middle" xml:space="preserve">(1,2,L)</text>
+<text x="350.2" y="871.0" text-anchor="middle" xml:space="preserve">MCC &lt;b MMC</text>
+<text x="350.2" y="885.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M left</text>
+<rect x="417.4" y="840.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="466.6" y="857.0" text-anchor="middle" xml:space="preserve">(2,2,L)</text>
+<text x="466.6" y="871.0" text-anchor="middle" xml:space="preserve">MMCC &lt;b MC</text>
+<text x="466.6" y="885.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="533.8" y="840.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#1b5e20" stroke-width="3"/>
+<text x="583.0" y="857.0" text-anchor="middle" xml:space="preserve">(0,3,L)</text>
+<text x="583.0" y="871.0" text-anchor="middle" xml:space="preserve">CCC &lt;b MMM</text>
+<text x="583.0" y="885.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#11</text>
+<rect x="650.2" y="840.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="699.4" y="857.0" text-anchor="middle" xml:space="preserve">(1,3,L)</text>
+<text x="699.4" y="871.0" text-anchor="middle" xml:space="preserve">MCCC &lt;b MM</text>
+<text x="699.4" y="885.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M left</text>
+<rect x="475.6" y="940.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="524.8" y="957.0" text-anchor="middle" xml:space="preserve">(0,2,R)</text>
+<text x="524.8" y="971.0" text-anchor="middle" xml:space="preserve">CC b&gt; MMMC</text>
+<text x="524.8" y="985.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="592.0" y="940.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#1b5e20" stroke-width="3"/>
+<text x="641.2" y="957.0" text-anchor="middle" xml:space="preserve">(0,1,R)</text>
+<text x="641.2" y="971.0" text-anchor="middle" xml:space="preserve">C b&gt; MMMCC</text>
+<text x="641.2" y="985.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#12</text>
+<rect x="359.2" y="1040.0" width="98.4" height="54.0" rx="6" fill="#dbe9f6" stroke="#1b5e20" stroke-width="3"/>
+<text x="408.4" y="1057.0" text-anchor="middle" xml:space="preserve">(1,1,L)</text>
+<text x="408.4" y="1071.0" text-anchor="middle" xml:space="preserve">MC &lt;b MMCC</text>
+<text x="408.4" y="1085.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#13</text>
+<rect x="475.6" y="1040.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="524.8" y="1057.0" text-anchor="middle" xml:space="preserve">(2,1,L)</text>
+<text x="524.8" y="1071.0" text-anchor="middle" xml:space="preserve">MMC &lt;b MCC</text>
+<text x="524.8" y="1085.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M right</text>
+<rect x="592.0" y="1040.0" width="98.4" height="54.0" rx="6" fill="#fff4c2" stroke="#555" stroke-width="1"/>
+<text x="641.2" y="1057.0" text-anchor="middle" xml:space="preserve">(0,2,L)</text>
+<text x="641.2" y="1071.0" text-anchor="middle" xml:space="preserve">CC &lt;b MMMC</text>
+<text x="641.2" y="1085.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">not expanded</text>
+<rect x="708.4" y="1040.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="757.6" y="1057.0" text-anchor="middle" xml:space="preserve">(0,3,L)</text>
+<text x="757.6" y="1071.0" text-anchor="middle" xml:space="preserve">CCC &lt;b MMM</text>
+<text x="757.6" y="1085.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="824.8" y="1040.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="874.0" y="1057.0" text-anchor="middle" xml:space="preserve">(1,2,L)</text>
+<text x="874.0" y="1071.0" text-anchor="middle" xml:space="preserve">MCC &lt;b MMC</text>
+<text x="874.0" y="1085.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M left</text>
+<rect x="242.8" y="1140.0" width="98.4" height="54.0" rx="6" fill="#e0e0e0" stroke="#555" stroke-width="1"/>
+<text x="292.0" y="1157.0" text-anchor="middle" xml:space="preserve">(0,1,R)</text>
+<text x="292.0" y="1171.0" text-anchor="middle" xml:space="preserve">C b&gt; MMMCC</text>
+<text x="292.0" y="1185.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">repeated</text>
+<rect x="359.2" y="1140.0" width="98.4" height="54.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="408.4" y="1157.0" text-anchor="middle" xml:space="preserve">(1,0,R)</text>
+<text x="408.4" y="1171.0" text-anchor="middle" xml:space="preserve">M b&gt; MMCCC</text>
+<text x="408.4" y="1185.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ C&gt;M right</text>
+<rect x="475.6" y="1140.0" width="98.4" height="54.0" rx="6" fill="#b7e1b0" stroke="#1b5e20" stroke-width="3"/>
+<text x="524.8" y="1157.0" text-anchor="middle" xml:space="preserve">(0,0,R)</text>
+<text x="524.8" y="1171.0" text-anchor="middle" xml:space="preserve">- b&gt; MMMCCC</text>
+<text x="524.8" y="1185.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">GOAL</text>
+</svg>

@@ -1,0 +1,472 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8296" height="480" font-family="monospace" font-size="12">
+<rect width="100%" height="100%" fill="white"/>
+<text x="10" y="24" font-size="15" font-weight="bold">Rotating Workforce Scheduling search tree, first 4 levels</text>
+<line x1="4320.7" y1="80.0" x2="1743.4" y2="126.0" stroke="#888" stroke-width="1"/>
+<text x="3035.0" y="107.0" font-size="10" fill="#444">Mo1=D</text>
+<line x1="4320.7" y1="80.0" x2="4357.0" y2="126.0" stroke="#888" stroke-width="1"/>
+<text x="4341.9" y="107.0" font-size="10" fill="#444">Mo1=N</text>
+<line x1="4320.7" y1="80.0" x2="6898.0" y2="126.0" stroke="#888" stroke-width="1"/>
+<text x="5612.4" y="107.0" font-size="10" fill="#444">Mo1=-</text>
+<line x1="1743.4" y1="166.0" x2="654.4" y2="212.0" stroke="#888" stroke-width="1"/>
+<text x="1201.9" y="193.0" font-size="10" fill="#444">Tu1=D</text>
+<line x1="1743.4" y1="166.0" x2="1670.8" y2="212.0" stroke="#888" stroke-width="1"/>
+<text x="1710.1" y="193.0" font-size="10" fill="#444">Tu1=N</text>
+<line x1="1743.4" y1="166.0" x2="2832.4" y2="212.0" stroke="#888" stroke-width="1"/>
+<text x="2290.9" y="193.0" font-size="10" fill="#444">Tu1=-</text>
+<line x1="4357.0" y1="166.0" x2="3703.6" y2="212.0" stroke="#888" stroke-width="1"/>
+<text x="4033.3" y="193.0" font-size="10" fill="#444">Tu1=D</text>
+<line x1="4357.0" y1="166.0" x2="3848.8" y2="212.0" stroke="#888" stroke-width="1"/>
+<text x="4105.9" y="193.0" font-size="10" fill="#444">Tu1=N</text>
+<line x1="4357.0" y1="166.0" x2="5010.4" y2="212.0" stroke="#888" stroke-width="1"/>
+<text x="4686.7" y="193.0" font-size="10" fill="#444">Tu1=-</text>
+<line x1="6898.0" y1="166.0" x2="6172.0" y2="212.0" stroke="#888" stroke-width="1"/>
+<text x="6538.0" y="193.0" font-size="10" fill="#444">Tu1=D</text>
+<line x1="6898.0" y1="166.0" x2="6752.8" y2="212.0" stroke="#888" stroke-width="1"/>
+<text x="6828.4" y="193.0" font-size="10" fill="#444">Tu1=N</text>
+<line x1="6898.0" y1="166.0" x2="7624.0" y2="212.0" stroke="#888" stroke-width="1"/>
+<text x="7264.0" y="193.0" font-size="10" fill="#444">Tu1=-</text>
+<line x1="654.4" y1="252.0" x2="218.8" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="439.6" y="279.0" font-size="10" fill="#444">We1=D</text>
+<line x1="654.4" y1="252.0" x2="654.4" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="657.4" y="279.0" font-size="10" fill="#444">We1=N</text>
+<line x1="654.4" y1="252.0" x2="1090.0" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="875.2" y="279.0" font-size="10" fill="#444">We1=-</text>
+<line x1="1670.8" y1="252.0" x2="1380.4" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="1528.6" y="279.0" font-size="10" fill="#444">We1=D</text>
+<line x1="1670.8" y1="252.0" x2="1525.6" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="1601.2" y="279.0" font-size="10" fill="#444">We1=N</text>
+<line x1="1670.8" y1="252.0" x2="1961.2" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="1819.0" y="279.0" font-size="10" fill="#444">We1=-</text>
+<line x1="2832.4" y1="252.0" x2="2396.8" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="2617.6" y="279.0" font-size="10" fill="#444">We1=D</text>
+<line x1="2832.4" y1="252.0" x2="2832.4" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="2835.4" y="279.0" font-size="10" fill="#444">We1=N</text>
+<line x1="2832.4" y1="252.0" x2="3268.0" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="3053.2" y="279.0" font-size="10" fill="#444">We1=-</text>
+<line x1="3848.8" y1="252.0" x2="3558.4" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="3706.6" y="279.0" font-size="10" fill="#444">We1=D</text>
+<line x1="3848.8" y1="252.0" x2="3703.6" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="3779.2" y="279.0" font-size="10" fill="#444">We1=N</text>
+<line x1="3848.8" y1="252.0" x2="4139.2" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="3997.0" y="279.0" font-size="10" fill="#444">We1=-</text>
+<line x1="5010.4" y1="252.0" x2="4574.8" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="4795.6" y="279.0" font-size="10" fill="#444">We1=D</text>
+<line x1="5010.4" y1="252.0" x2="5010.4" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="5013.4" y="279.0" font-size="10" fill="#444">We1=N</text>
+<line x1="5010.4" y1="252.0" x2="5446.0" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="5231.2" y="279.0" font-size="10" fill="#444">We1=-</text>
+<line x1="6172.0" y1="252.0" x2="5881.6" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="6029.8" y="279.0" font-size="10" fill="#444">We1=D</text>
+<line x1="6172.0" y1="252.0" x2="6317.2" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="6247.6" y="279.0" font-size="10" fill="#444">We1=N</text>
+<line x1="6172.0" y1="252.0" x2="6462.4" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="6320.2" y="279.0" font-size="10" fill="#444">We1=-</text>
+<line x1="6752.8" y1="252.0" x2="6607.6" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="6683.2" y="279.0" font-size="10" fill="#444">We1=D</text>
+<line x1="6752.8" y1="252.0" x2="6752.8" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="6755.8" y="279.0" font-size="10" fill="#444">We1=N</text>
+<line x1="6752.8" y1="252.0" x2="6898.0" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="6828.4" y="279.0" font-size="10" fill="#444">We1=-</text>
+<line x1="7624.0" y1="252.0" x2="7188.4" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="7409.2" y="279.0" font-size="10" fill="#444">We1=D</text>
+<line x1="7624.0" y1="252.0" x2="7624.0" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="7627.0" y="279.0" font-size="10" fill="#444">We1=N</text>
+<line x1="7624.0" y1="252.0" x2="8059.6" y2="298.0" stroke="#888" stroke-width="1"/>
+<text x="7844.8" y="279.0" font-size="10" fill="#444">We1=-</text>
+<line x1="218.8" y1="338.0" x2="73.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="149.2" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="218.8" y1="338.0" x2="218.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="221.8" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="218.8" y1="338.0" x2="364.0" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="294.4" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="654.4" y1="338.0" x2="509.2" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="584.8" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="654.4" y1="338.0" x2="654.4" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="657.4" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="654.4" y1="338.0" x2="799.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="730.0" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="1090.0" y1="338.0" x2="944.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="1020.4" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="1090.0" y1="338.0" x2="1090.0" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="1093.0" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="1090.0" y1="338.0" x2="1235.2" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="1165.6" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="1525.6" y1="338.0" x2="1380.4" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="1456.0" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="1525.6" y1="338.0" x2="1525.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="1528.6" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="1525.6" y1="338.0" x2="1670.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="1601.2" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="1961.2" y1="338.0" x2="1816.0" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="1891.6" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="1961.2" y1="338.0" x2="1961.2" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="1964.2" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="1961.2" y1="338.0" x2="2106.4" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="2036.8" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="2396.8" y1="338.0" x2="2251.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="2327.2" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="2396.8" y1="338.0" x2="2396.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="2399.8" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="2396.8" y1="338.0" x2="2542.0" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="2472.4" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="2832.4" y1="338.0" x2="2687.2" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="2762.8" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="2832.4" y1="338.0" x2="2832.4" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="2835.4" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="2832.4" y1="338.0" x2="2977.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="2908.0" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="3268.0" y1="338.0" x2="3122.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="3198.4" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="3268.0" y1="338.0" x2="3268.0" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="3271.0" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="3268.0" y1="338.0" x2="3413.2" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="3343.6" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="3703.6" y1="338.0" x2="3558.4" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="3634.0" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="3703.6" y1="338.0" x2="3703.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="3706.6" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="3703.6" y1="338.0" x2="3848.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="3779.2" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="4139.2" y1="338.0" x2="3994.0" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="4069.6" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="4139.2" y1="338.0" x2="4139.2" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="4142.2" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="4139.2" y1="338.0" x2="4284.4" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="4214.8" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="4574.8" y1="338.0" x2="4429.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="4505.2" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="4574.8" y1="338.0" x2="4574.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="4577.8" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="4574.8" y1="338.0" x2="4720.0" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="4650.4" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="5010.4" y1="338.0" x2="4865.2" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="4940.8" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="5010.4" y1="338.0" x2="5010.4" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="5013.4" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="5010.4" y1="338.0" x2="5155.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="5086.0" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="5446.0" y1="338.0" x2="5300.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="5376.4" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="5446.0" y1="338.0" x2="5446.0" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="5449.0" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="5446.0" y1="338.0" x2="5591.2" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="5521.6" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="5881.6" y1="338.0" x2="5736.4" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="5812.0" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="5881.6" y1="338.0" x2="5881.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="5884.6" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="5881.6" y1="338.0" x2="6026.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="5957.2" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="6317.2" y1="338.0" x2="6172.0" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="6247.6" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="6317.2" y1="338.0" x2="6317.2" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="6320.2" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="6317.2" y1="338.0" x2="6462.4" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="6392.8" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="6752.8" y1="338.0" x2="6607.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="6683.2" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="6752.8" y1="338.0" x2="6752.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="6755.8" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="6752.8" y1="338.0" x2="6898.0" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="6828.4" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="7188.4" y1="338.0" x2="7043.2" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="7118.8" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="7188.4" y1="338.0" x2="7188.4" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="7191.4" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="7188.4" y1="338.0" x2="7333.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="7264.0" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="7624.0" y1="338.0" x2="7478.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="7554.4" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="7624.0" y1="338.0" x2="7624.0" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="7627.0" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="7624.0" y1="338.0" x2="7769.2" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="7699.6" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<line x1="8059.6" y1="338.0" x2="7914.4" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="7990.0" y="365.0" font-size="10" fill="#444">Th1=D</text>
+<line x1="8059.6" y1="338.0" x2="8059.6" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="8062.6" y="365.0" font-size="10" fill="#444">Th1=N</text>
+<line x1="8059.6" y1="338.0" x2="8204.8" y2="384.0" stroke="#888" stroke-width="1"/>
+<text x="8135.2" y="365.0" font-size="10" fill="#444">Th1=-</text>
+<rect x="4257.1" y="40.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="4320.7" y="57.0" text-anchor="middle" xml:space="preserve">(empty)</text>
+<text x="4320.7" y="71.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#1</text>
+<rect x="1679.8" y="126.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="1743.4" y="143.0" text-anchor="middle" xml:space="preserve">W1 D......</text>
+<text x="1743.4" y="157.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#2</text>
+<rect x="4293.4" y="126.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="4357.0" y="143.0" text-anchor="middle" xml:space="preserve">W1 N......</text>
+<text x="4357.0" y="157.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#3</text>
+<rect x="6834.4" y="126.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="6898.0" y="143.0" text-anchor="middle" xml:space="preserve">W1 -......</text>
+<text x="6898.0" y="157.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#4</text>
+<rect x="590.8" y="212.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="654.4" y="229.0" text-anchor="middle" xml:space="preserve">W1 DD.....</text>
+<text x="654.4" y="243.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#5</text>
+<rect x="1607.2" y="212.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="1670.8" y="229.0" text-anchor="middle" xml:space="preserve">W1 DN.....</text>
+<text x="1670.8" y="243.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#6</text>
+<rect x="2768.8" y="212.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="2832.4" y="229.0" text-anchor="middle" xml:space="preserve">W1 D-.....</text>
+<text x="2832.4" y="243.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#7</text>
+<rect x="3640.0" y="212.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="3703.6" y="229.0" text-anchor="middle" xml:space="preserve">W1 ND.....</text>
+<text x="3703.6" y="243.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="3785.2" y="212.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="3848.8" y="229.0" text-anchor="middle" xml:space="preserve">W1 NN.....</text>
+<text x="3848.8" y="243.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#8</text>
+<rect x="4946.8" y="212.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="5010.4" y="229.0" text-anchor="middle" xml:space="preserve">W1 N-.....</text>
+<text x="5010.4" y="243.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#9</text>
+<rect x="6108.4" y="212.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="6172.0" y="229.0" text-anchor="middle" xml:space="preserve">W1 -D.....</text>
+<text x="6172.0" y="243.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#10</text>
+<rect x="6689.2" y="212.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="6752.8" y="229.0" text-anchor="middle" xml:space="preserve">W1 -N.....</text>
+<text x="6752.8" y="243.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#11</text>
+<rect x="7560.4" y="212.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="7624.0" y="229.0" text-anchor="middle" xml:space="preserve">W1 --.....</text>
+<text x="7624.0" y="243.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#12</text>
+<rect x="155.2" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="218.8" y="315.0" text-anchor="middle" xml:space="preserve">W1 DDD....</text>
+<text x="218.8" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#13</text>
+<rect x="590.8" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="654.4" y="315.0" text-anchor="middle" xml:space="preserve">W1 DDN....</text>
+<text x="654.4" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#14</text>
+<rect x="1026.4" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="1090.0" y="315.0" text-anchor="middle" xml:space="preserve">W1 DD-....</text>
+<text x="1090.0" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#15</text>
+<rect x="1316.8" y="298.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="1380.4" y="315.0" text-anchor="middle" xml:space="preserve">W1 DND....</text>
+<text x="1380.4" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="1462.0" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="1525.6" y="315.0" text-anchor="middle" xml:space="preserve">W1 DNN....</text>
+<text x="1525.6" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#16</text>
+<rect x="1897.6" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="1961.2" y="315.0" text-anchor="middle" xml:space="preserve">W1 DN-....</text>
+<text x="1961.2" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#17</text>
+<rect x="2333.2" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="2396.8" y="315.0" text-anchor="middle" xml:space="preserve">W1 D-D....</text>
+<text x="2396.8" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#18</text>
+<rect x="2768.8" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="2832.4" y="315.0" text-anchor="middle" xml:space="preserve">W1 D-N....</text>
+<text x="2832.4" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#19</text>
+<rect x="3204.4" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="3268.0" y="315.0" text-anchor="middle" xml:space="preserve">W1 D--....</text>
+<text x="3268.0" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#20</text>
+<rect x="3494.8" y="298.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="3558.4" y="315.0" text-anchor="middle" xml:space="preserve">W1 NND....</text>
+<text x="3558.4" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="3640.0" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="3703.6" y="315.0" text-anchor="middle" xml:space="preserve">W1 NNN....</text>
+<text x="3703.6" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#21</text>
+<rect x="4075.6" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="4139.2" y="315.0" text-anchor="middle" xml:space="preserve">W1 NN-....</text>
+<text x="4139.2" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#22</text>
+<rect x="4511.2" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="4574.8" y="315.0" text-anchor="middle" xml:space="preserve">W1 N-D....</text>
+<text x="4574.8" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#23</text>
+<rect x="4946.8" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="5010.4" y="315.0" text-anchor="middle" xml:space="preserve">W1 N-N....</text>
+<text x="5010.4" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#24</text>
+<rect x="5382.4" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="5446.0" y="315.0" text-anchor="middle" xml:space="preserve">W1 N--....</text>
+<text x="5446.0" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#25</text>
+<rect x="5818.0" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="5881.6" y="315.0" text-anchor="middle" xml:space="preserve">W1 -DD....</text>
+<text x="5881.6" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#26</text>
+<rect x="6253.6" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="6317.2" y="315.0" text-anchor="middle" xml:space="preserve">W1 -DN....</text>
+<text x="6317.2" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#27</text>
+<rect x="6398.8" y="298.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="6462.4" y="315.0" text-anchor="middle" xml:space="preserve">W1 -D-....</text>
+<text x="6462.4" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ work block &lt; 2</text>
+<rect x="6544.0" y="298.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="6607.6" y="315.0" text-anchor="middle" xml:space="preserve">W1 -ND....</text>
+<text x="6607.6" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="6689.2" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="6752.8" y="315.0" text-anchor="middle" xml:space="preserve">W1 -NN....</text>
+<text x="6752.8" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#28</text>
+<rect x="6834.4" y="298.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="6898.0" y="315.0" text-anchor="middle" xml:space="preserve">W1 -N-....</text>
+<text x="6898.0" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ work block &lt; 2</text>
+<rect x="7124.8" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="7188.4" y="315.0" text-anchor="middle" xml:space="preserve">W1 --D....</text>
+<text x="7188.4" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#29</text>
+<rect x="7560.4" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="7624.0" y="315.0" text-anchor="middle" xml:space="preserve">W1 --N....</text>
+<text x="7624.0" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#30</text>
+<rect x="7996.0" y="298.0" width="127.2" height="40.0" rx="6" fill="#dbe9f6" stroke="#555" stroke-width="1"/>
+<text x="8059.6" y="315.0" text-anchor="middle" xml:space="preserve">W1 ---....</text>
+<text x="8059.6" y="329.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">#31</text>
+<rect x="10.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="73.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 DDDD...</text>
+<text x="73.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="155.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="218.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 DDDN...</text>
+<text x="218.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="300.4" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="364.0" y="401.0" text-anchor="middle" xml:space="preserve">W1 DDD-...</text>
+<text x="364.0" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="445.6" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="509.2" y="401.0" text-anchor="middle" xml:space="preserve">W1 DDND...</text>
+<text x="509.2" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="590.8" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="654.4" y="401.0" text-anchor="middle" xml:space="preserve">W1 DDNN...</text>
+<text x="654.4" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="736.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="799.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 DDN-...</text>
+<text x="799.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="881.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="944.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 DD-D...</text>
+<text x="944.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="1026.4" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="1090.0" y="401.0" text-anchor="middle" xml:space="preserve">W1 DD-N...</text>
+<text x="1090.0" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="1171.6" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="1235.2" y="401.0" text-anchor="middle" xml:space="preserve">W1 DD--...</text>
+<text x="1235.2" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="1316.8" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="1380.4" y="401.0" text-anchor="middle" xml:space="preserve">W1 DNND...</text>
+<text x="1380.4" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="1462.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="1525.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 DNNN...</text>
+<text x="1525.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="1607.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="1670.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 DNN-...</text>
+<text x="1670.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="1752.4" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="1816.0" y="401.0" text-anchor="middle" xml:space="preserve">W1 DN-D...</text>
+<text x="1816.0" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="1897.6" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="1961.2" y="401.0" text-anchor="middle" xml:space="preserve">W1 DN-N...</text>
+<text x="1961.2" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="2042.8" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="2106.4" y="401.0" text-anchor="middle" xml:space="preserve">W1 DN--...</text>
+<text x="2106.4" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="2188.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="2251.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 D-DD...</text>
+<text x="2251.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="2333.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="2396.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 D-DN...</text>
+<text x="2396.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="2478.4" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="2542.0" y="401.0" text-anchor="middle" xml:space="preserve">W1 D-D-...</text>
+<text x="2542.0" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ work block &lt; 2</text>
+<rect x="2623.6" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="2687.2" y="401.0" text-anchor="middle" xml:space="preserve">W1 D-ND...</text>
+<text x="2687.2" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="2768.8" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="2832.4" y="401.0" text-anchor="middle" xml:space="preserve">W1 D-NN...</text>
+<text x="2832.4" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="2914.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="2977.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 D-N-...</text>
+<text x="2977.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ work block &lt; 2</text>
+<rect x="3059.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="3122.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 D--D...</text>
+<text x="3122.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="3204.4" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="3268.0" y="401.0" text-anchor="middle" xml:space="preserve">W1 D--N...</text>
+<text x="3268.0" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="3349.6" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="3413.2" y="401.0" text-anchor="middle" xml:space="preserve">W1 D---...</text>
+<text x="3413.2" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="3494.8" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="3558.4" y="401.0" text-anchor="middle" xml:space="preserve">W1 NNND...</text>
+<text x="3558.4" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="3640.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="3703.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 NNNN...</text>
+<text x="3703.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="3785.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="3848.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 NNN-...</text>
+<text x="3848.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="3930.4" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="3994.0" y="401.0" text-anchor="middle" xml:space="preserve">W1 NN-D...</text>
+<text x="3994.0" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="4075.6" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="4139.2" y="401.0" text-anchor="middle" xml:space="preserve">W1 NN-N...</text>
+<text x="4139.2" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="4220.8" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="4284.4" y="401.0" text-anchor="middle" xml:space="preserve">W1 NN--...</text>
+<text x="4284.4" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="4366.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="4429.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 N-DD...</text>
+<text x="4429.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="4511.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="4574.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 N-DN...</text>
+<text x="4574.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="4656.4" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="4720.0" y="401.0" text-anchor="middle" xml:space="preserve">W1 N-D-...</text>
+<text x="4720.0" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ work block &lt; 2</text>
+<rect x="4801.6" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="4865.2" y="401.0" text-anchor="middle" xml:space="preserve">W1 N-ND...</text>
+<text x="4865.2" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="4946.8" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="5010.4" y="401.0" text-anchor="middle" xml:space="preserve">W1 N-NN...</text>
+<text x="5010.4" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="5092.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="5155.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 N-N-...</text>
+<text x="5155.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ work block &lt; 2</text>
+<rect x="5237.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="5300.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 N--D...</text>
+<text x="5300.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="5382.4" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="5446.0" y="401.0" text-anchor="middle" xml:space="preserve">W1 N--N...</text>
+<text x="5446.0" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="5527.6" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="5591.2" y="401.0" text-anchor="middle" xml:space="preserve">W1 N---...</text>
+<text x="5591.2" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="5672.8" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="5736.4" y="401.0" text-anchor="middle" xml:space="preserve">W1 -DDD...</text>
+<text x="5736.4" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="5818.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="5881.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 -DDN...</text>
+<text x="5881.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="5963.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="6026.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 -DD-...</text>
+<text x="6026.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="6108.4" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="6172.0" y="401.0" text-anchor="middle" xml:space="preserve">W1 -DND...</text>
+<text x="6172.0" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="6253.6" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="6317.2" y="401.0" text-anchor="middle" xml:space="preserve">W1 -DNN...</text>
+<text x="6317.2" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="6398.8" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="6462.4" y="401.0" text-anchor="middle" xml:space="preserve">W1 -DN-...</text>
+<text x="6462.4" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="6544.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="6607.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 -NND...</text>
+<text x="6607.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="6689.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="6752.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 -NNN...</text>
+<text x="6752.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="6834.4" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="6898.0" y="401.0" text-anchor="middle" xml:space="preserve">W1 -NN-...</text>
+<text x="6898.0" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="6979.6" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="7043.2" y="401.0" text-anchor="middle" xml:space="preserve">W1 --DD...</text>
+<text x="7043.2" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="7124.8" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="7188.4" y="401.0" text-anchor="middle" xml:space="preserve">W1 --DN...</text>
+<text x="7188.4" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="7270.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="7333.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 --D-...</text>
+<text x="7333.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ work block &lt; 2</text>
+<rect x="7415.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="7478.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 --ND...</text>
+<text x="7478.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ N→D forbidden</text>
+<rect x="7560.4" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="7624.0" y="401.0" text-anchor="middle" xml:space="preserve">W1 --NN...</text>
+<text x="7624.0" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="7705.6" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="7769.2" y="401.0" text-anchor="middle" xml:space="preserve">W1 --N-...</text>
+<text x="7769.2" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ work block &lt; 2</text>
+<rect x="7850.8" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="7914.4" y="401.0" text-anchor="middle" xml:space="preserve">W1 ---D...</text>
+<text x="7914.4" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="7996.0" y="384.0" width="127.2" height="40.0" rx="6" fill="#ffffff" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="8059.6" y="401.0" text-anchor="middle" xml:space="preserve">W1 ---N...</text>
+<text x="8059.6" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">depth limit</text>
+<rect x="8141.2" y="384.0" width="127.2" height="40.0" rx="6" fill="#f4c2c2" stroke="#555" stroke-width="1"/>
+<text x="8204.8" y="401.0" text-anchor="middle" xml:space="preserve">W1 ----...</text>
+<text x="8204.8" y="415.0" text-anchor="middle" font-size="10" fill="#333" xml:space="preserve">✗ off block &gt; 3</text>
+</svg>
